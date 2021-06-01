@@ -1,6 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hello there! 👋 my name is Erika Espejo</h1>
 
-- 🔭 I’m currently learning on FullStack development.
+<h3 align="center">I'm a Junior Developer. I'm currently focused on the world of web development with Javascript, React and Node.js, among others. But I'm open to learn anything!</h3>
+
+
+-------
+### Some topics about me
+- 🔭 I’m constantly learning about software development.
+- 🥟 I love empanadas.
+- 👩‍🏫 I'm passionate about learning and teaching.
+- 🎮 Videogames? Obviously! 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
